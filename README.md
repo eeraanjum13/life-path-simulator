@@ -1,4 +1,3 @@
-Perfect — here’s a clean, professional `README.md` tailored for your **Life Path Simulator** project:
 
 ---
 
@@ -90,14 +89,5 @@ MIT — free to use, fork, and expand. Contributions welcome!
 
 If you'd like to improve the app, extend the simulation, or switch to real-world data — PRs are welcome! Feel free to [open an issue](https://github.com/YOUR_USERNAME/life-path-simulator/issues).
 
-```
 
----
 
-Would you like me to:
-- Drop this directly into a `README.md` file for you?
-- Generate a starter `app.py` for the Streamlit frontend?
-- Create a `model_train.py` scaffold?
-
-Just say the word!
-```
